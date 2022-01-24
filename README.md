@@ -1,3 +1,4 @@
+# Riemann-Integrator
 # all equations must be entered as one "side" only (x**2 + 4)
 # trig functions should be entered as math.cos(x), math.sin(x), etc.
 # use math.e and math.pi for those constants
