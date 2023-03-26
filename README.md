@@ -1,6 +1,6 @@
 # Riemann-Integrator
 
-all equations must be entered as one "side" only (x**2 + 4)
+all equations must be entered in f(x) form (ie x**2 + 4, not x**3 = x + 4)
 and use python math
 
 Ex. math.cos(x), math.e, math.pi
